@@ -1,0 +1,10 @@
+@charset "UTF-8" ;
+header > nav > ul > li > a{
+    color: blueviolet;
+}
+header > nav > ul {
+    color: blueviolet;
+}
+a:hover{
+    color: green;
+}
